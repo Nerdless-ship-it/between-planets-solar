@@ -30,7 +30,7 @@
 
 ### Lively Wallpaper（推荐）
 
-1. 从仓库 [Release](../../releases) 下载「行星之间-Lively.zip」
+1. 从仓库 [Release](../../releases) 下载 Lively 安装包（zip，例如 `planets-between-lively-v1.0.0.zip`）
 2. 将 zip 拖进 Lively Wallpaper 窗口导入
 3. 点击壁纸应用
 4. 右键壁纸 →「自定义」，可调整速度、周期、帧率和各类开关
