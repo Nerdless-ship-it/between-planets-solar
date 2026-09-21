@@ -26,13 +26,15 @@
 
 ## 🚀 快速开始
 
+🌐 **在线预览**：<https://nerdless-ship-it.github.io/between-planets-solar/>（浏览器直接打开，无需下载）
+
 用支持 WebGL 2 的现代浏览器（建议开启硬件加速）直接打开 `solar-system.html` 即可离线预览，无需安装任何东西。
 
 ## 🖥️ 设为 Windows 动态桌面
 
 ### Lively Wallpaper（推荐）
 
-1. 从仓库 [Release](../../releases) 下载 Lively 安装包（zip，例如 `planets-between-lively-v1.0.0.zip`）
+1. 从仓库 [Release](../../releases/latest) 下载最新的 Lively 安装包（zip）
 2. 将 zip 拖进 Lively Wallpaper 窗口导入
 3. 点击壁纸应用
 4. 右键壁纸 →「自定义」，可调整速度、周期、帧率和各类开关
