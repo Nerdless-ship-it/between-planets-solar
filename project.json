@@ -11,6 +11,10 @@
  "meteors":{"type":"bool","text":"流星","value":true,"order":6},
  "blackhole":{"type":"bool","text":"黑洞吸积盘（艺术远景）","value":true,"order":7},
  "clock":{"type":"bool","text":"显示时钟","value":true,"order":8},
- "interaction":{"type":"bool","text":"鼠标交互","value":false,"order":9}
+ "interaction":{"type":"bool","text":"鼠标交互","value":false,"order":9},
+ "comet":{"type":"bool","text":"长尾彗星","value":true,"order":10},
+ "satellites":{"type":"bool","text":"行星卫星","value":true,"order":11},
+ "solaractivity":{"type":"bool","text":"太阳活动","value":true,"order":12},
+ "probes":{"type":"bool","text":"深空探测器 · 6 艘","value":true,"order":13}
  }}
 }

@@ -8,5 +8,9 @@
  "meteors":{"type":"checkbox","text":"流星特效","value":true},
  "blackhole":{"type":"checkbox","text":"黑洞吸积盘（艺术远景）","value":true},
  "clock":{"type":"checkbox","text":"显示时钟","value":true},
- "interaction":{"type":"checkbox","text":"鼠标交互","value":false}
+ "interaction":{"type":"checkbox","text":"鼠标交互","value":false},
+ "comet":{"type":"checkbox","text":"长尾彗星","value":true},
+ "satellites":{"type":"checkbox","text":"行星卫星","value":true},
+ "solaractivity":{"type":"checkbox","text":"太阳活动","value":true},
+ "probes":{"type":"checkbox","text":"深空探测器 · 6 艘","value":true}
 }
