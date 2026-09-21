@@ -1,0 +1,7 @@
+{
+ "AppVersion":"2.0.0.0","Title":"行星之间 · SOLAR","Thumbnail":"preview.jpg","Preview":null,
+ "Desc":"可交互的三维太阳系。八大行星公转与自转、土星环、地月系统、小行星带。立体 / 俯视 / 侧视，支持近距离观察与真实公转周期比例。完全离线。",
+ "Author":"张凌康","License":"MIT","Contact":null,
+ "Type":1,"FileName":"solar-system.html","Arguments":null,"IsAbsolutePath":false,
+ "Tags":["solar system","space","3d","interactive"],"Version":1
+}
